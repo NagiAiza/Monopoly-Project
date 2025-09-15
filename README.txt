@@ -24,7 +24,7 @@ Complete Menu System: Navigate through a full-featured menu to start a new game,
 
 ## 🕹️ Controls
 
-| Action            | Key                        | Gameplay Mode            |
+| Action            | Key                        | Gameplay Mode            |
 | ----------------- | -------------------------- | ------------------------ |
 | **Navigate Menus** | `Number Keys` (1, 2, 3, etc.) | In-Game Menus |
 | **Confirm** | `Enter` | In-Game Menus |
